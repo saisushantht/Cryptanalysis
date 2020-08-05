@@ -5,4 +5,4 @@ In this program the encryted text is been  decryped and been compared with the c
 And if there is match in the words the sentence is printed and the user is given the option
 whether to continue or to stop the brute force .
 
-And finally the as output the key is printed.
+And finally as output the key is printed.
