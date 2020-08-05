@@ -12,7 +12,7 @@ def decrypt(string, shift):
 
 text = input()
 a=1
-common_words=["the","of","and","in","is","you","that","it","which"]
+common_words=["the","of","and","in","is","you","that","it","which"]           #with increase in the common words the solution can be applied to a wide variety of examples
 while a:
     a+=1
     co_text=decrypt(text,a)
